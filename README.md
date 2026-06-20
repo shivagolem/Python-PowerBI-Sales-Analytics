@@ -69,21 +69,7 @@ This dashboard helps analyze:
 
 ## 📷 Dashboard Preview
 
-Upload your dashboard screenshot and add:
-
-```markdown
-![Dashboard](Dashboard.png)
-```
-
-or
-
-```markdown
 [![Dashboard](Dashboard.png)](Dashboard.png)
-```
-
-to make it clickable.
-
----
 
 ## 👨‍💻 Author
 
